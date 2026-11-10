@@ -1,6 +1,6 @@
 # VGA interactif
 
-Une matière qui perçoit le geste au lieu de lui obéir.
+exemple de mouvement perçu avec lequel interagi
 
 Installation lumineuse low-tech : une carte FPGA DE0-Nano génère directement un signal VGA pour un projecteur, sans ordinateur. Seize points verts sur fond noir réagissent au geste du spectateur.
 
