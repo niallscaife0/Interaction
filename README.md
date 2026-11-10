@@ -11,7 +11,8 @@ Installation lumineuse low-tech : une carte FPGA DE0-Nano génère directement u
 Modèle logiciel de l'installation, avec le même cadre que le matériel : image 640×480 à 60 Hz, 16 points, calculs en entiers (virgule fixe), sans fonction trigonométrique dans la boucle. Le code est écrit pour se traduire en C (microcontrôleur) et en VHDL (FPGA).
 
 - **Vue spectateur** : quatre comportements (Repos, Trouble, Envol, Présence) et un pavé à deux axes, calme ↔ vif et épars ↔ uni.
-- **Vue atelier** : réglages détaillés, décisions figées, boutons KEY0/KEY1, lecture des registres et débit du bus. Lien direct : [index.html#atelier](https://niallscaife0.github.io/vga-interactif/#atelier).
+- **Vue atelier** : réglages détaillés, décisions figées, boutons KEY0/KEY1, lecture des registres et débit du bus. Lien direct : [index.html#atelier](https://niallscaife0.github.io/Interaction
+  ).
 
 ## Matériel
 
